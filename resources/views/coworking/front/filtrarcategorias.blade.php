@@ -9,7 +9,7 @@
         <span class="input-group-addon">
             <i class="fa fa-search trailing" style="font-size:27px;color:black;background:grey;height:37px;width:40px; border-radius:0 3px 3px 0; padding:3px 3px 2px 2px; cursor:pointer;" align="center"></i>
         </span>
-        <button type="button" onclick="mostrarservicios()">Click Me!</button>
+        <button type="button" >Click Me!</button>
     </div>
     <div class="container-xl">
         <div class="row">
